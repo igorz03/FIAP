@@ -1,0 +1,19 @@
+package br.com.fiap.bicicleta;
+
+public class Bicicleta {
+	
+	private int aro;
+	private String modelo = "caloi";
+	private float peso;
+	private Fabricante fabricante;
+	
+	
+	public static String retornarDetalhes(String modelo) {
+		
+		
+		
+		return modelo;
+		
+		
+	}
+}
